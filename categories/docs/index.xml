@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on 陪⁵久一点⁸ᥫᩣ</title>
+    <link>/categories/docs/</link>
+    <description>Recent content in Docs on 陪⁵久一点⁸ᥫᩣ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>sudoevolve@gmail.com (Sudo Evolve)</managingEditor>
+    <webMaster>sudoevolve@gmail.com (Sudo Evolve)</webMaster>
+    <copyright>&amp;Copy;sudoevolve Rights Rserverd:</copyright>
+    <lastBuildDate>Sat, 18 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="/categories/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>C&#43;&#43; 简介</title>
+      <link>/post/c&#43;&#43;%E4%BB%8B%E7%BB%8D/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      <author>sudoevolve@gmail.com (Sudo Evolve)</author>
+      <guid>/post/c&#43;&#43;%E4%BB%8B%E7%BB%8D/</guid>
+      <description>1.1 C++ 简介</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/post/c&#43;&#43;%E4%BB%8B%E7%BB%8D/featured.png" />
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      <author>sudoevolve@gmail.com (Sudo Evolve)</author>
+      <guid>/</guid>
+      <description>Welcome to [Evolve blog], a hub for software enthusiasts and coding learners of all levels.</description>
+      
+    </item>
+    
+    <item>
+      <title>函数</title>
+      <link>/post/%E5%87%BD%E6%95%B0/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      <author>sudoevolve@gmail.com (Sudo Evolve)</author>
+      <guid>/post/%E5%87%BD%E6%95%B0/</guid>
+      <description>C++ 中，函数是用来执行特定任务的代码块。函数使程序能够通过将代码分成多个模块来提高可读性、可维护性和重用性。下面我将详细讲解 C++ 中函数的用法，包括函数的定义、声明、参数传递、返回值、重载和递归等内容。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/post/%E5%87%BD%E6%95%B0/featured.png" />
+    </item>
+    
+    <item>
+      <title>基本语法</title>
+      <link>/post/%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      <author>sudoevolve@gmail.com (Sudo Evolve)</author>
+      <guid>/post/%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</guid>
+      <description>C++ 基本语法涵盖了语言的基础结构，包括变量声明、控制语句、函数、类和对象等。下面我将从几个重要的方面讲解 C++ 基本语法。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/post/%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/featured.png" />
+    </item>
+    
+    <item>
+      <title>指针</title>
+      <link>/post/%E6%8C%87%E9%92%88/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      <author>sudoevolve@gmail.com (Sudo Evolve)</author>
+      <guid>/post/%E6%8C%87%E9%92%88/</guid>
+      <description>1.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/post/%E6%8C%87%E9%92%88/featured.png" />
+    </item>
+    
+    <item>
+      <title>数据类型和变量</title>
+      <link>/post/%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E5%8F%98%E9%87%8F/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      <author>sudoevolve@gmail.com (Sudo Evolve)</author>
+      <guid>/post/%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E5%8F%98%E9%87%8F/</guid>
+      <description>在 C++ 中，变量和数据类型是基础概念，用来存储程序中的数据。理解这些概念是学习 C++ 编程的第一步。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/post/%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E5%8F%98%E9%87%8F/featured.png" />
+    </item>
+    
+    <item>
+      <title>流程控制</title>
+      <link>/post/%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      <author>sudoevolve@gmail.com (Sudo Evolve)</author>
+      <guid>/post/%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/</guid>
+      <description>在 C++ 中，流程控制语句是程序执行过程中用于控制程序流的语句。它们决定了代码的执行顺序，通常用于判断、循环和分支。C++ 的流程控制语句主要包括以下几类：</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/post/%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/featured.png" />
+    </item>
+    
+    <item>
+      <title>简单上手</title>
+      <link>/post/%E7%AE%80%E5%8D%95%E4%B8%8A%E6%89%8Bhello-world/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      <author>sudoevolve@gmail.com (Sudo Evolve)</author>
+      <guid>/post/%E7%AE%80%E5%8D%95%E4%B8%8A%E6%89%8Bhello-world/</guid>
+      <description>写C++程序其实很简单，直接用记事本写好代码，然后用一个编译器做编译运行就可以了；不过这意味这我们得自己保证语法正确，严重影响开发效率。所以实际应用中我们一般都会使用功能更强大的工具，除了提供编译器外，还可以给我们做语法检查和提醒，方便我们调试程序——这就是所谓的“集成开发环境”（IDE）。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/post/%E7%AE%80%E5%8D%95%E4%B8%8A%E6%89%8Bhello-world/featured.png" />
+    </item>
+    
+    <item>
+      <title>运算符</title>
+      <link>/post/%E8%BF%90%E7%AE%97%E7%AC%A6/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      <author>sudoevolve@gmail.com (Sudo Evolve)</author>
+      <guid>/post/%E8%BF%90%E7%AE%97%E7%AC%A6/</guid>
+      <description>在 C++ 中，运算符用于对数据进行操作。运算符可以对基本数据类型、变量、对象等进行计算或操作。C++ 提供了多种运算符，下面将详细讲解常用的几类运算符。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/post/%E8%BF%90%E7%AE%97%E7%AC%A6/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 陪⁵久一点⁸ᥫᩣ</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on 陪⁵久一点⁸ᥫᩣ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>sudoevolve@gmail.com (Sudo Evolve)</managingEditor>
+    <webMaster>sudoevolve@gmail.com (Sudo Evolve)</webMaster>
+    <copyright>&amp;Copy;sudoevolve Rights Rserverd:</copyright>
+    <lastBuildDate>Sat, 18 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cpp</title>
+      <link>/categories/cpp/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      <author>sudoevolve@gmail.com (Sudo Evolve)</author>
+      <guid>/categories/cpp/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Docs</title>
+      <link>/categories/docs/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      <author>sudoevolve@gmail.com (Sudo Evolve)</author>
+      <guid>/categories/docs/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
